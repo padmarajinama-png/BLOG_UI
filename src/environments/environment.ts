@@ -1,4 +1,4 @@
 export const environment = {
-   apiUrl: 'https://localhost:7134'
+   apiUrl: 'https://blog-api-gycy.onrender.com'
 
 };
